@@ -1,7 +1,7 @@
 const Discord = module.require("discord.js");
 const ms = require("ms")
 module.exports.run = async (client, message, args) => {
-  if (message.author.id != "763188423208861706") return;
+  if (message.author.id != "799462215807795270") return;
   // put your account ID above so only YOU can execute the command
     // !giveaway {time s/m/d} {item}
     function sleep(ms) {
